@@ -20,7 +20,6 @@ body{
   border-bottom:1px solid rgba(255,255,255,.08);
 }
 
-/* TYPO */
 .kicker{
   letter-spacing:.20rem;
   font-weight:800;
@@ -83,7 +82,7 @@ body{
   background:linear-gradient(to bottom,#eaf1ff,#f6fbff);
 }
 
-/* DESKRIPSI CENTER (FIX) */
+/* DESKRIPSI */
 .about-desc-card{
   max-width:900px;
   margin:0 auto 22px;
